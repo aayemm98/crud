@@ -1,0 +1,31 @@
+body{
+    background: #4d378d;
+}
+.line{
+    text-decoration: line-through;
+}
+.radius {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid rgba(172, 233, 255, 0.93);
+    background: rgb(61, 103, 178);
+    margin: 0 5px;
+}
+.input-first {
+    box-shadow: 0 0 8px #030303;
+    transition: .7s;
+}
+
+.input-second {
+    box-shadow: 0 0 8px #030303;
+    transition: .7s;
+}
+
+
+.ul {
+    box-shadow: 0 0 3px #030303;
+}
